@@ -1,5 +1,6 @@
 # Projeto Pokédex
 #### Mini Pokédex baseada na Pokédex do jogo _Pokémon Legends: Arceus_, desenvolvida com HTML, CSS e JavaScript, no evento "MapaDev Week"
+![pokedex-icon-28](https://user-images.githubusercontent.com/59178745/174316128-8c93e631-5b2b-4427-a3aa-a4e65a0fa8d4.png)
 ## Tecnologias Utilizadas &#x1F680;
 + _HyperText Markup Language_ (HTML)
 + _Cascading Style Sheets_ (CSS)
